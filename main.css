@@ -30,7 +30,7 @@ body {
 #nav{
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
 }
 
 
